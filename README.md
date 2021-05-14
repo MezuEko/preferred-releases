@@ -1,4 +1,4 @@
---- If you only want the subtitles(some entries OUTDATED) there is a compilation of all subs you can on:
+--- If you only want the subtitles(some entries OUTDATED) there is a compilation of all subs you can find on:
 
    [here](https://nyaa.si/view/1142031) 
    
