@@ -124,7 +124,7 @@ Monogatrai Second Season contains the arcs:
 11. ## Zoku Owarimonogatari:
 
 Three subs choices:
-* If you're not lazy get [Kawaiika-Raws]((https://nyaa.si/view/1134728)) and use Edo's subs with it from [here](https://kitsunekko.net/subtitles/Zoku%20Owarimonogatari/[Edo]%20Zoku%20Owarmonogarai.rar)
+* If you're not lazy get [Kawaiika-Raws](https://nyaa.si/view/1134728) and use Edo's subs with it from [here](https://kitsunekko.net/subtitles/Zoku%20Owarimonogatari/[Edo]%20Zoku%20Owarmonogarai.rar)
 * [Edo](https://nyaa.si/user/EdoPhantom?f=0&c=0_0&q=zoku) (same person who did Kizu, I prefer this script)
 * [Kawaiika-Raws](https://nyaa.si/view/1134728) has MTBB subs -- MTBB's TL notes if [you're interested](https://pastebin.com/JnQSCG9M)
 * [MTBB's original release](https://nyaa.si/view/1138570) (can't go wrong with it, I just like Edo's prose). I know it's 720p but if you run an okay upscaler with MPV it'll look close to the best (Kawaiika-Raws). For more info on upscaling with mpv, check [this blogpost](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/) after installing [MPV-Made-Easy](https://github.com/Moodkiller/MPV-Made-Easy) or any other version of the software.
