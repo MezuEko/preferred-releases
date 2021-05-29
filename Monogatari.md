@@ -34,10 +34,14 @@ How to install fonts:
 		2. Dump all fonts that come with any release in there.
 		3. Profit.
 
-Here's a link to the modified MPV player I use: https://github.com/Moodkiller/MPV-Made-Easy
+Here's a link to the modified MPV player I use: https://github.com/Moodkiller/MPV-Made-Easy (Windows, unsure if it's mac compatible)
+
+For Mac, you might want to get the unmodded player from the official website: https://mpv.io/installation/
 
 
 - Any other player (MPC is popular): Just select all fonts-> right click -> install -> (done).
+
+- VLC is known to render some formats incorrectly but I don't know the specific conditions or if it happens with anything I linked here. Just a heads-up.
 ***************************************************************************************************************
 
 
@@ -50,19 +54,20 @@ and you'll see them. But I belive many of their subs choices weren't the best. T
 
 
 ## 1. Bakemonogatari: [ANE](https://nyaa.si/view/256450)
-   * (Optional) replace EPs 1-2 with [MTBB's](https://nyaa.si/view/1260802) (TL closer to Vertical's novel translation + better video quality than ANE) -- MTBB uses VCB/mawen videos which are generally very good
+   * (Optional) replace EPs 1-2 with [MTBB's](https://nyaa.si/view/1260802) (TL closer to Vertical's novel translation + better video quality than ANE) -- MTBB used VCB/mawen videos here which are generally very good.
 
 
 ## 2. Kizumonogatari Trilogy has three options: 
 * [EDO](https://nyaa.si/view/1073285) (my recommendation)
 * [Commie](https://nyaa.si/view/1073285) 
-* [Kawaiika-Raws](https://nyaa.si/view/1141748) (same subs as Commie but different and likely better video)
-*   or [Yurei](https://nyaa.si/?f=0&c=0_0&q=Y%C5%ABrei+Kizumonogatari+) | Different Video. Included both Edo and Commie subs + includes official subs(not good)
+* [Kawaiika-Raws](https://nyaa.si/view/1141748) (has Commie subs but different and likely better video)
+*   or [Yurei](https://nyaa.si/?f=0&c=0_0&q=Y%C5%ABrei+Kizumonogatari+) if you're lazy | Different Video (unsure about quality). Included both Edo and Commie subs + includes official subs(not good translation)
 	
-	Note: I prefer Edo subs for Kizu but it's up to you to choose. Commie may possibly have terminology and phrasing more consistent with other entries since many releases use their subs as base such as Second Season and NekoKuro.
+	>Note: I prefer Edo subs for Kizu but it's up to you to choose. Commie may possibly have terminology and phrasing more consistent with other entries since many releases use their subs as base such as Second Season and NekoKuro.
 
 
-## 3. Nisemonogatari: [Tap24](https://nyaa.si/view/1103251)
+## 3. Nisemonogatari: [Tap24](https://nyaa.si/view/1103251) -- has VCB video.
+   * or [Kawaiika-Raws](https://nyaa.si/view/1163419) -- has Tap24 subs. (I don't remember if I compared Nise videos yet)
 
 
 ## 4. Nekomonogatari:Kuro(Black): 
@@ -88,7 +93,7 @@ Monogatrai Second Season contains the arcs:
                  
     keep in mind that you should watch Hana in the middle of Monogatari: Second Season.
 
-	Also note:	In the broadcast version, EP6 & 11 & 16 are recaps which this torrent and most out there don't include.
+	>Also note:	In the broadcast version, EP6 & 11 & 16 are recaps which this torrent and most out there don't include.
 	
     Hana comes right after Kabukimonogatari and before Otorimonogatari(Nadeko arc). 
     
@@ -115,19 +120,21 @@ Monogatrai Second Season contains the arcs:
 
 
 10. ## Owarimonogatari S2: 
-* The best video that you can easily obtain is probably [Kawaiika-Raws](https://nyaa.si/view/1137467) | but the included subs are outdated, so get [StoryTime]'s subs for EPs 1-2 from [here](https://kitsunekko.net/subtitles/Owarimonogatari%20S02%20(2017)/[Storytime]%20Owarimonogatari%20(Ge)%20Mayoi%20Hell%20subs.rar) and use it with Kawaiika-Raws.
+* The best video that you can easily obtain is probably [Kawaiika-Raws](https://nyaa.si/view/1137467) | but the included subs are outdated, so get [StoryTime]'s subs for EPs 1-2 from [here](https://kitsunekko.net/subtitles/Owarimonogatari%20S02%20(2017)/[Storytime]%20Owarimonogatari%20(Ge)%20Mayoi%20Hell%20subs.zip) and use it with Kawaiika-Raws.
 * EPs 3-7 subs can be taken from [ToishY], though not ideal, it is the best out there for the rest of [Owari2](https://mega.nz/file/07oRGYTJ#DKxB9zKqVj4X_LzHwIU0mcw4ZWW2VMppkMwkNugsHWg)
 			
- * If you're lazy just get EPs 1&2 from [StoryTime](https://nyaa.si/view/1231415) and the rest from [ToishY'a release from here](https://nyaa.si/view/1178566), but their video is likely noticeably inferior to Kawaiika-Raws.
+ * If you're lazy, just get EPs 1&2 from [StoryTime](https://nyaa.si/view/1231415) and the rest from [ToishY'a release from here](https://nyaa.si/view/1178566), but their video is likely noticeably inferior to Kawaiika-Raws.
 
 
 11. ## Zoku Owarimonogatari:
 
 Three subs choices:
-* If you're not lazy get [Kawaiika-Raws](https://nyaa.si/view/1134728) and use Edo's subs with it from [here](https://kitsunekko.net/subtitles/Zoku%20Owarimonogatari/[Edo]%20Zoku%20Owarmonogarai.rar)
-* [Edo](https://nyaa.si/user/EdoPhantom?f=0&c=0_0&q=zoku) (same person who did Kizu, I prefer this script)
-* [Kawaiika-Raws](https://nyaa.si/view/1134728) has MTBB subs -- MTBB's TL notes if [you're interested](https://pastebin.com/JnQSCG9M)
+* If you're not lazy get [Kawaiika-Raws](https://nyaa.si/view/1134728) and use Edo's subs with it from [here](https://kitsunekko.net/subtitles/Zoku%20Owarimonogatari/[Edo]%20Zoku%20Owarmonogarai.zip)
+* [Edo](https://nyaa.si/user/EdoPhantom?f=0&c=0_0&q=zoku) (same person who did Kizu, I prefer this script but MTBB has strong points as well)
+* [Kawaiika-Raws](https://nyaa.si/view/1134728) has MTBB subs -- MTBB's TL notes if [you're interested](https://pastebin.com/JnQSCG9M), very interesting read into the wordplay in Zoku (read it after).
 * [MTBB's original release](https://nyaa.si/view/1138570) (can't go wrong with it, I just like Edo's prose). I know it's 720p but if you run an okay upscaler with MPV it'll look close to the best (Kawaiika-Raws). For more info on upscaling with mpv, check [this blogpost](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/) after installing [MPV-Made-Easy](https://github.com/Moodkiller/MPV-Made-Easy) or any other version of the software.
+
+	>Note: Rereading MTBB's TL notes, I'm starting to lean towards their release a little for some episodes. Hard for me to judge now. I watched both when they were released but it's been a long while, will probably need a new full rewatch to properly compare. Ideally, I'd create a mix of both scripts if I had the time, since both had very creative wordplay localisation ideas. You might do well to watch Edo's release then read MTBB's TL notes if you don't want to stress too much about the differences. Also you could always rewatch.
 
 
 
@@ -140,5 +147,5 @@ Three subs choices:
 
 
 ***Final note: 
-If you get confused, it's alright to take the release from the full [compilation](https://nyaa.si/view/1160744)
-but not all of them have the best subs so that might be a problem. Make sure to follow the watch order!
+If you get confused, it's alright to take the entries from this full [compilation](https://nyaa.si/view/1160744)
+but not all of them have the best subs so that might be a problem if you're picky like me. Make sure to follow the watch order!
