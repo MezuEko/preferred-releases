@@ -13,13 +13,15 @@ Simplified watch order:
 * Nekomonogatari: Kuro
 * Monogatari Second Season EP1-9
 * Hanamonogatari
-* the Rest of Monogatari Second Season
+* the rest of Monogatari Second Season (EP10+)
 * Tsukimonogatari
 * Koyomimonogatari
 * Owarimonogatari
 * Owarimonogatari 2
 * ZokuOwarimonogatari
 _______________________________________________________________________________________
+
+
 
 ***************************************************************************************************************
 NOTE:	Many of the releases I link here will be from [[Kawaiika-Raws]](https://nyaa.si/user/DeadNews)
