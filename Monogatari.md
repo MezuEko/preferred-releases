@@ -41,9 +41,11 @@ Here's a link to the modified MPV player I use: https://github.com/Moodkiller/MP
 For Mac, you might want to get the unmodded player from the official website: https://mpv.io/installation/
 
 
-- Any other player (MPC is popular): Just select all fonts-> right click -> install -> (done).
+ Any other player (MPC is popular):
+ - Windows: just select all fonts-> right click -> install -> (done).
+ - Mac: Seems to be a matter of selecting and double-clicking on them, see https://support.apple.com/en-gb/HT201749 (I've never used Mac)
 
-- VLC is known to render some formats incorrectly but I don't know the specific conditions or if it happens with anything I linked here. Just a heads-up.
+ VLC is known to render some formats (both videos and font-based typesetting) incorrectly but I don't know the specific conditions or if it happens with anything I linked here. Just a heads-up if you want to use it.
 ***************************************************************************************************************
 
 
