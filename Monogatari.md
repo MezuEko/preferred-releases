@@ -91,7 +91,7 @@ Monogatrai Second Season contains the arcs:
 5. Onimonogatari
 6. Koimonogatari
 
-* Hanamonogatari: [Kawaiika-Raws](https://nyaa.si/view/1145617)
+* Hanamonogatari: [FLFL](https://nyaa.si/view/1394773) - Contains Kawaiika-Raws video + Commie subs + Commentary tracks and their translations
 * or [Commie's original release](https://nyaa.si/view/1001039)
 * or from this [compilation](https://nyaa.si/view/1160744)
                  
@@ -109,7 +109,7 @@ Monogatrai Second Season contains the arcs:
 
 
 
-7. ## Tsukimonogatari: [Kawaiika-Raws](https://nyaa.si/view/1145618)
+7. ## Tsukimonogatari: [FLFL](https://nyaa.si/view/1394774) - Contains Kawaiika-Raws video + Commie subs + Commentary tracks and their translations
 	* or [Commie's original release](https://nyaa.si/view/739772)
 
 
@@ -119,7 +119,7 @@ Monogatrai Second Season contains the arcs:
 * (optional but it's very short) [Koyomi History](https://nyaa.si/view/1141750) -- short "story" included in the BD of Koyomimonogatari to be watched/read after Koyomimonogatari.
 		
 		
-9. ## Owarimonogatari: [Kawaiika-Raws](https://nyaa.si/view/1163284) (has Commie subs)
+9. ## Owarimonogatari: [FLFL](https://nyaa.si/view/1395195) - Contains Kawaiika-Raws video + Commie subs + Commentary tracks and their translations
 	 * or [Commie's original release](https://nyaa.si/view/1011605) | Note: Commie's release is missing one font that you can patch in with this [patch](https://commiesubs.com/wp-content/uploads/2018/03/owari_patches.zip).
 
 
@@ -127,15 +127,17 @@ Monogatrai Second Season contains the arcs:
 * The best video that you can easily obtain is probably [Kawaiika-Raws](https://nyaa.si/view/1137467) | but the included subs are outdated, so get [StoryTime]'s subs for EPs 1-2 from [here](https://kitsunekko.net/subtitles/Owarimonogatari%20S02%20(2017)/[Storytime]%20Owarimonogatari%20(Ge)%20Mayoi%20Hell%20subs.zip) and use it with Kawaiika-Raws.
 * EPs 3-7 subs can be taken from [ToishY], though not ideal, it is the best out there for the rest of [Owari2](https://mega.nz/file/07oRGYTJ#DKxB9zKqVj4X_LzHwIU0mcw4ZWW2VMppkMwkNugsHWg)
 			
- * If you're lazy, just get EPs 1&2 from [StoryTime](https://nyaa.si/view/1231415) and the rest from [ToishY'a release from here](https://nyaa.si/view/1178566), but their video is likely noticeably inferior to Kawaiika-Raws.
+ * If you're lazy, just get EPs 1&2 from [StoryTime](https://nyaa.si/view/1231415) and the rest from [ToishY'a release from here](https://nyaa.si/view/1178566), but their video quality is likely noticeably inferior to Kawaiika-Raws.
 
 
-11. ## Zoku Owarimonogatari:
+11. ## Zoku Owarimonogatari: [[Arid]](https://nyaa.si/view/1395216) - Contains Kawaiika-Raws + Both Edo & MTBB subs tracks for your convenience to switch between.
 
-Three subs choices:
+[MTBB's TL notes if you're interested](https://pastebin.com/JnQSCG9M), very interesting read into the wordplay in Zoku (read it after).
+
+Or if for some reason you don't want Arid (why???), you could go with these ***obselete options***:
+
 * If you're not lazy get [Kawaiika-Raws](https://nyaa.si/view/1134728) and use Edo's subs with it from [here](https://kitsunekko.net/subtitles/Zoku%20Owarimonogatari/[Edo]%20Zoku%20Owarmonogarai.zip)
 * [Edo](https://nyaa.si/user/EdoPhantom?f=0&c=0_0&q=zoku) (same person who did Kizu, I prefer this script but MTBB has strong points as well)
-* [Kawaiika-Raws](https://nyaa.si/view/1134728) has MTBB subs -- MTBB's TL notes if [you're interested](https://pastebin.com/JnQSCG9M), very interesting read into the wordplay in Zoku (read it after).
 * [MTBB's original release](https://nyaa.si/view/1138570) (can't go wrong with it, I just like Edo's prose). I know it's 720p but if you run an okay upscaler with MPV it'll look close to the best (Kawaiika-Raws). For more info on upscaling with mpv, check [this blogpost](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/) after installing [MPV-Made-Easy](https://github.com/Moodkiller/MPV-Made-Easy) or any other version of the software.
 
 	>Note: Rereading MTBB's TL notes, I'm starting to lean towards their release a little for some episodes. Hard for me to judge now. I watched both when they were released but it's been a long while, will probably need a new full rewatch to properly compare. Ideally, I'd create a mix of both scripts if I had the time, since both had very creative wordplay localisation ideas. You might do well to watch Edo's release then read MTBB's TL notes if you don't want to stress too much about the differences. Also you could always rewatch.
