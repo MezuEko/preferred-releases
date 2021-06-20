@@ -70,7 +70,8 @@ and you'll see them. But I belive many of their subs choices weren't the best. T
 	>Note: I prefer Edo subs for Kizu but it's up to you to choose. Commie may possibly have terminology and phrasing more consistent with other entries since many releases use their subs as base such as Second Season and NekoKuro.
 
 
-## 3. Nisemonogatari: [Tap24](https://nyaa.si/view/1103251) -- has VCB video.
+## 3. Nisemonogatari: [FLFL](https://nyaa.si/view/1400535) - Kawaiika-Raws video + MTBB(ep1) + Commie + Coalgirls for the rest of the tracks with additional minor tl & ts fixes to all tracks.
+   * or [Tap24](https://nyaa.si/view/1103251) -- has VCB video.
    * or [Kawaiika-Raws](https://nyaa.si/view/1163419) -- has Tap24 subs. (I don't remember if I compared Nise videos yet)
 
 
@@ -123,7 +124,10 @@ Monogatrai Second Season contains the arcs:
 	 * or [Commie's original release](https://nyaa.si/view/1011605) | Note: Commie's release is missing one font that you can patch in with this [patch](https://commiesubs.com/wp-content/uploads/2018/03/owari_patches.zip).
 
 
-10. ## Owarimonogatari S2: 
+10. ## Owarimonogatari S2: [FLFL](https://nyaa.si/view/1396317) -- Kawaiika-Raws video + StoryTime + ToishY for convenience.
+
+Or if for some reason you don't want [FLFL] (why???), you could go with these ***obselete options***:
+
 * The best video that you can easily obtain is probably [Kawaiika-Raws](https://nyaa.si/view/1137467) | but the included subs are outdated, so get [StoryTime]'s subs for EPs 1-2 from [here](https://kitsunekko.net/subtitles/Owarimonogatari%20S02%20(2017)/[Storytime]%20Owarimonogatari%20(Ge)%20Mayoi%20Hell%20subs.zip) and use it with Kawaiika-Raws.
 * EPs 3-7 subs can be taken from [ToishY], though not ideal, it is the best out there for the rest of [Owari2](https://mega.nz/file/07oRGYTJ#DKxB9zKqVj4X_LzHwIU0mcw4ZWW2VMppkMwkNugsHWg)
 			
