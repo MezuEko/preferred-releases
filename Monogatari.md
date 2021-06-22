@@ -70,7 +70,7 @@ and you'll see them. But I belive many of their subs choices weren't the best. T
 	>Note: I prefer Edo subs for Kizu but it's up to you to choose. Commie may possibly have terminology and phrasing more consistent with other entries since many releases use their subs as base such as Second Season and NekoKuro.
 
 
-## 3. Nisemonogatari: [FLFL](https://nyaa.si/view/1400535) - Kawaiika-Raws video + MTBB(ep1) + Commie + Coalgirls for the rest of the tracks with additional minor tl & ts fixes to all tracks.
+## 3. Nisemonogatari: [FLFL](https://nyaa.si/view/1401080) - Kawaiika-Raws video + MTBB(ep1) + Tap24(I RECOMMEND THIS TRACK) + Commie + Coalgirls for the rest of the tracks with additional minor tl & ts fixes to all tracks.
    * or [Tap24](https://nyaa.si/view/1103251) -- has VCB video.
    * or [Kawaiika-Raws](https://nyaa.si/view/1163419) -- has Tap24 subs. (I don't remember if I compared Nise videos yet)
 
