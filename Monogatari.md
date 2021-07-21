@@ -32,7 +32,7 @@ the video file yourself for the subtitiles to display properly. If you don't, th
 How to install fonts: 
 
 - If you're using MPV player to play the files (highly highly recommended), install them into MPV itself. To do this:
-		1. Create a new folder inside the mpv folder, name it "fonts"
+		1. Create a new folder inside the mpv folder, name it "fonts".
 		2. Dump all fonts that come with any release in there.
 		3. Profit.
 
