@@ -43,7 +43,8 @@ For Mac, you might want to get the unmodded player from the official website: ht
 
  Any other player (MPC is popular):
  - Windows: just select all fonts-> right click -> install -> (done).
- - Mac: Seems to be a matter of selecting and double-clicking on them, see https://support.apple.com/en-gb/HT201749 (I've never used Mac)
+ - Mac: Seems to be a matter of selecting and double-clicking on them, see https://support.apple.com/en-gb/HT201749 (I've never used Mac).
+ - For batch installing fonts on Mac, I found this: https://howchoo.com/mac/install-multiple-fonts-at-once-in-mac-os-x
 
  VLC is known to render some formats (both videos and font-based typesetting) incorrectly but I don't know the specific conditions or if it happens with anything I linked here. Just a heads-up if you want to use it.
 ***************************************************************************************************************
@@ -61,7 +62,9 @@ and you'll see them. But I belive many of their subs choices weren't the best. T
    * (Optional) replace EPs 1-2 with [MTBB's](https://nyaa.si/view/1260802) (TL closer to Vertical's novel translation + better video quality than ANE) -- MTBB used VCB/mawen videos here which are generally very good.
 
 
-## 2. Kizumonogatari Trilogy has three options: 
+## 2. Kizumonogatari Trilogy: [FLFL](https://nyaa.si/view/1407262) - Contains Commie + Edo (2nd track, my recommendation) with some fixes
+
+or these three options: 
 * [EDO](https://nyaa.si/view/1073285) (my recommendation)
 * [Commie](https://nyaa.si/view/1073285) 
 * [Kawaiika-Raws](https://nyaa.si/view/1141748) (has Commie subs but different and likely better video)
@@ -81,8 +84,11 @@ and you'll see them. But I belive many of their subs choices weren't the best. T
 in case anything breaks with their release (unlikely), you can download Commie's original (and 8 years old) release [here](https://nyaa.si/view/424165)	or just take it from this [compilation](https://nyaa.si/view/1160744) but it will be (slightly?) inferior to Kawaiika visually with possibly (slightly?) modified subs.
 
 
-## 5. Monogatari: Second Season:  same as Neko, take it from here [Kawaiika-Raws](https://nyaa.si/view/1163288) (doesn't include Hanamonogatari)
-    
+## 5. Monogatari: Second Season:  same as Neko, take it from here [FLFL](https://nyaa.si/view/1401984) (doesn't include Hanamonogatari)
+
+* or [Kawaiika-Raws](https://nyaa.si/view/1163288)
+
+
 Monogatrai Second Season contains the arcs:
 
 1. NekomonogatariShiro
@@ -117,7 +123,7 @@ Monogatrai Second Season contains the arcs:
 8. ## Koyomimonogatari:
 * Episodes 01-06 [Commie](https://nyaa.si/view/1246528) (seems to be based on Sajamba from what I compared, revised + Better Typesetting)
 * Episodes 07-12 [Sajamba](https://nyaa.si/view/835714)
-* (optional but it's very short) [Koyomi History](https://nyaa.si/view/1141750) -- short "story" included in the BD of Koyomimonogatari to be watched/read after Koyomimonogatari.
+* (optional but it's very short) [Koyomi History](https://nyaa.si/view/1407742) -- short "story" included in the BD of Koyomimonogatari to be watched/read after Koyomimonogatari.
 		
 		
 9. ## Owarimonogatari: [FLFL](https://nyaa.si/view/1395195) - Contains Kawaiika-Raws video + Commie subs + Commentary tracks and their translations
@@ -156,6 +162,8 @@ Or if for some reason you don't want Arid (why???), you could go with these ***o
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-***Final note: 
+***Final notes: 
 If you get confused, it's alright to take the entries from this full [compilation](https://nyaa.si/view/1160744)
 but not all of them have the best subs so that might be a problem if you're picky like me. Make sure to follow the watch order!
+
+P.S. if i ever stop updating this, check [FLFL](https://nyaa.si/?f=0&c=0_0&q=FLFL) for revisions and newer releases, they seem to be committed to creating the best versions out there from what I'm seeing.
